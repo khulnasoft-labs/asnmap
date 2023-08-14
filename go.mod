@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
-	github.com/khulnasoft-labs/goflags v0.1.11
+	github.com/khulnasoft-labs/goflags v0.1.12
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/hmap v0.0.15
 	github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c
