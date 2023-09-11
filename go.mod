@@ -4,14 +4,14 @@ go 1.20
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
-	github.com/khulnasoft-labs/goflags v0.1.11
+	github.com/khulnasoft-labs/goflags v0.1.13
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/hmap v0.0.15
 	github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/net v0.12.0
+	golang.org/x/net v0.15.0
 )
 
 require (
@@ -74,12 +74,12 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.11.0 // indirect
-	golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1 // indirect
-	golang.org/x/mod v0.11.0 // indirect
+	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
+	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/oauth2 v0.10.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/tools v0.7.0 // indirect
+	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/djherbis/times.v1 v1.3.0 // indirect
