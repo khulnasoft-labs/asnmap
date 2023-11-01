@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/asnmap
 go 1.20
 
 require (
-	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
+	github.com/asaskevich/govalidator/v11 v11.0.1
 	github.com/khulnasoft-lab/goflags v0.1.16
 	github.com/khulnasoft-lab/gologger v1.1.13
 	github.com/khulnasoft-lab/hmap v0.0.17
